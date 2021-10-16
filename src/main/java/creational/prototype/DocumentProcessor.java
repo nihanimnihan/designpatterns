@@ -1,6 +1,6 @@
 package creational.prototype;
 
-public class documentProcessor {
+public class DocumentProcessor {
 
     public static void main(String[] args) {
         GeneralEntityService generalEntityService = new GeneralEntityService();
